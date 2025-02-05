@@ -48,8 +48,8 @@ NEXT_PUBLIC_APP_API=http://localhost:5000
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=YOUR_NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY
 
 # stripe
-# https://dashboard.stripe.com/apikeys
+https://dashboard.stripe.com/apikeys
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=YOUR_NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY
-# Set this environment variable to support webhooks — https://stripe.com/docs/webhooks#verify-events
+Set this environment variable to support webhooks — https://stripe.com/docs/webhooks#verify-events
 STRIPE_WEBHOOK_SECRET= YOUR_STRIPE_WEBHOOK_SECRET
 
