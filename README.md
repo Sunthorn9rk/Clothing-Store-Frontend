@@ -6,6 +6,24 @@ https://github.com/Sunthorn9rk/Clothing-Store-Backend
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Images Project
+# Landing Page
+![LandingPage](https://github.com/user-attachments/assets/6d18939c-2805-47d7-919f-99207f327b48)
+# Category Page
+![CategoryPage](https://github.com/user-attachments/assets/2cf62124-9143-4c50-8bfe-b2edab131db9)
+# Product Page
+![ProductPage](https://github.com/user-attachments/assets/f67f2f42-24c7-400c-ba13-053f6ae15027)
+# Cart Page
+![CartPage](https://github.com/user-attachments/assets/8cfcc935-b744-48f9-8b37-8c1f53635fb6)
+# Login Page
+![LoginPage](https://github.com/user-attachments/assets/547da77b-63b0-4aa4-9c85-ebff08832f71)
+# Admin Page
+![AdminPage](https://github.com/user-attachments/assets/f61f1adc-8f12-4f06-a6ca-744e5ac94b0d)
+# Manage Account Page
+![MangeAccountPage](https://github.com/user-attachments/assets/35cee120-945e-4ae4-b737-829c98d5d61d)
+# Manage Product Page
+![ManageProductPage](https://github.com/user-attachments/assets/7093933c-4e97-4031-a6e7-4d07e2cabca8)
+
 ## Getting Started
 
 First, run the development server:
